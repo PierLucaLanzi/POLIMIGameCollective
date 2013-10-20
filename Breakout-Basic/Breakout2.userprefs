@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Breakout/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Breakout/Ball.cs" Line="61" Column="7" />
+      <File FileName="Assets/Scenes/Breakout/gBreakOut.cs" Line="31" Column="47" />
+      <File FileName="Assets/Scenes/Breakout/Brick.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

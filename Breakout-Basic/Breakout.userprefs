@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Documents/Online/Corsi/VDP/2012 VDP/Source/Arcade-inLesson/Assets/SphereMovement.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Breakout/Ball.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scenes/Breakout/Pad.cs" Line="15" Column="19" />
+      <File FileName="Assets/Scenes/Breakout/Brick.cs" Line="16" Column="1" />
+      <File FileName="../Documents/Online/Corsi/VDP/2012 VDP/Source/Arcade-inLesson/Assets/SphereMovement.cs" Line="20" Column="2" />
+      <File FileName="../Documents/Online/Corsi/VDP/2012 VDP/Source/Arcade-inLesson/Assets/Globals.cs" Line="20" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
