@@ -1,0 +1,14 @@
+Basic breakout game coded during the Unity lecture of October 17, 2013.
+
+In addition to what shown in class, this code include the main menu,
+in which the buttons are implemented as colliders positioned over
+the play and credit signs.
+
+The code should be modified  to
+
+- improve the ball trajectory which sometime can become too horizontal
+- add the next levels since at the moment the game stops as all the
+  bricks are destroyed.
+
+References
+- http://www.gamasutra.com/view/feature/130053/breaking_down_breakout_system_and_.php?print=1
