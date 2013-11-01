@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\nemico.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\player.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="8" Column="33" />
+      <File FileName="Assets\Scripts\proiettile.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\bowman.cs" Line="32" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
