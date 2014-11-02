@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../GameOver/GameOverFinal-Distribution/Assets/Dogfight/Script/DogFight.cs">
+    <Files>
+      <File FileName="../../GameOver/GameOverFinal-Distribution/Assets/Dogfight/Script/DogFight.cs" Line="86" Column="6" />
+      <File FileName="../../GameOver/GameOverFinal-Distribution/Assets/Dogfight/Script/gDogFight.cs" Line="64" Column="4" />
+      <File FileName="../../GameOver/GameOverFinal-Distribution/Assets/Dogfight/Script/global.cs" Line="1" Column="1" />
+      <File FileName="../../GameOver/GameOverFinal-Distribution/Assets/Dogfight/Script/Missile.cs" Line="29" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

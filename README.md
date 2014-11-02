@@ -23,4 +23,12 @@ and Programming at the Politecnico di Milano
   used also partially used for the first Unity3D workshop of
   the 2014/2015 Video game Design and Programming course
   at the Politecnico di Milano.
+  
+- SplashScreen
+  Example project with the setup for the splashscreen that 
+  all the games in the course should use. It consists of 
+  three screens, your logo, the game collective logo, and
+  a logo from guests you might have.
+  
+
 
